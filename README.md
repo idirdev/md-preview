@@ -1,3 +1,5 @@
+> **Archived** — Kept for reference. Not part of the current portfolio. See [markdown-engine](https://github.com/idirdev/markdown-engine) instead.
+
 # MD Preview
 
 Live Markdown previewer with GFM support and code syntax highlighting. Write markdown on the left, see rendered output on the right.

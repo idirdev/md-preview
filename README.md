@@ -21,3 +21,19 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000).
+
+---
+
+## 🇫🇷 Documentation en français
+
+### Description
+**MD Preview** est un outil de prévisualisation Markdown en temps réel avec support GitHub Flavored Markdown (GFM) et coloration syntaxique du code. L'éditeur est affiché à gauche, le rendu HTML à droite — idéal pour rédiger de la documentation rapidement.
+
+### Installation
+```bash
+npm install
+npm run dev
+```
+
+### Utilisation
+Ouvrez [http://localhost:3000](http://localhost:3000), saisissez du Markdown dans le panneau gauche et visualisez le rendu en temps réel à droite.
